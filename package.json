@@ -1,6 +1,6 @@
 {
     "name": "@aerapass/ng-currency-mask",
-    "version": "12.2.17",
+    "version": "12.2.19",
     "description": "A very simple currency mask directive that allows using a number attribute with the ngModel.",
     "repository": {
         "type": "git",

@@ -1,6 +1,6 @@
 {
-    "name": "ng2-currency-mask",
-    "version": "13.0.3",
+    "name": "@aerapass/ng-currency-mask",
+    "version": "12.2.19",
     "peerDependencies": {
         "@angular/common": ">= 12.x.x",
         "@angular/core": ">= 12.x.x"
