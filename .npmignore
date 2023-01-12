@@ -1,7 +1,0 @@
-projects
-node_modules
-.vscode
-.eslintrc.json
-.prettierrc
-angular.json
-tsconfig.json
