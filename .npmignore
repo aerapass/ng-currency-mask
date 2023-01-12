@@ -1,0 +1,5 @@
+projects
+.eslintrc.json
+.prettierrc
+angular.json
+tsconfig.json
